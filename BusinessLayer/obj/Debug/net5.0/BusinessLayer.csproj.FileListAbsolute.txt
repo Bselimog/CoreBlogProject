@@ -32,3 +32,37 @@ C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\B
 C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
 C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb

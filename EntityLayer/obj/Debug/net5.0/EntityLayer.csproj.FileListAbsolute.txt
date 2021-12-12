@@ -22,3 +22,27 @@ C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\E
 C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\by\source\repos\Asp.Net Core Mvc5 Blog Projesi\Github\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Melike Selimoğlu\Documents\GitHub\ASP.NET-CORE5_SocialDiscount\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

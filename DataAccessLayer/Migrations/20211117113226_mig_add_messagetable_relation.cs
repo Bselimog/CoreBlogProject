@@ -37,6 +37,7 @@ namespace DataAccessLayer.Migrations
                         onDelete: ReferentialAction.Restrict);
                 });
 
+
             migrationBuilder.CreateIndex(
                 name: "IX_Message2s_ReceiverID",
                 table: "Message2s",
