@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Melike Selimoğlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melike Selimoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config",

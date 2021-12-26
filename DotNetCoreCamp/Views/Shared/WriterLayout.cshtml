@@ -1,4 +1,4 @@
-﻿
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
 @{
     Layout = null;
 }
@@ -9,7 +9,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Perspective Blog - Beyza Selimoğlu</title>
+    <title> SocialDiscount - Beyza Selimoğlu</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="~/writer/assets/vendors/mdi/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="~/writer/assets/vendors/css/vendor.bundle.base.css">
@@ -24,7 +24,7 @@
         <!-- partial:../../partials/_navbar.html -->
         <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
             <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-                <a class="navbar-brand brand-logo" href="#"><img src="~/writer/assets/images/logo2.jpeg" alt="logo" /></a>
+                <a class="navbar-brand brand-logo" href="#"><img src="~/writer/assets/images/social-media-3696901_960_720.png" alt="logo" /></a>
                 <a class="navbar-brand brand-logo-mini" href="~/writer/index.html"><img src="~/writer/assets/images/logo-mini.svg" alt="logo" /></a>
             </div>
             <div class="navbar-menu-wrapper d-flex align-items-stretch">
@@ -37,7 +37,8 @@
                             <div class="input-group-prepend bg-transparent">
                                 <i class="input-group-text border-0 mdi mdi-magnify"></i>
                             </div>
-                            <input type="text" class="form-control bg-transparent border-0" placeholder="Aradığınız Kelimeyi Giriniz !">
+                            <input type="text" class="form-control bg-transparent border-0" placeholder=@localizer["Aranacak Kelimeyi Giriniz!..."]>
+                            
                         </div>
                     </form>
                 </div>
@@ -45,20 +46,19 @@
                     <li class="nav-item nav-profile dropdown">
                         <a class="nav-link dropdown-toggle" id="profileDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
                             <div class="nav-profile-img">
-                                <img src="~/writer/assets/images/faces/face1.jpg" alt="image">
+                                <img src="https://pbs.twimg.com/profile_images/1164292154396725250/txLNlXQv_400x400.jpg" alt="image">
                                 <span class="availability-status online"></span>
                             </div>
                             <div class="nav-profile-text">
+
                                 <p class="mb-1 text-black">Beyza Selimoğlu</p>
                             </div>
                         </a>
                         <div class="dropdown-menu navbar-dropdown" aria-labelledby="profileDropdown">
-                            <a class="dropdown-item" href="#">
-                                <i class="mdi mdi-cached mr-2 text-success"></i> Activity Log
-                            </a>
+
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">
-                                <i class="mdi mdi-logout mr-2 text-primary"></i> Signout
+                            <a class="dropdown-item" href="/Login/Index/">
+                                <i class="mdi mdi-logout mr-2 text-primary"></i> @localizer["Çıkış Yap"]
                             </a>
                         </div>
                     </li>
@@ -67,30 +67,31 @@
                             <i class="mdi mdi-fullscreen" id="fullscreen-button"></i>
                         </a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link count-indicator dropdown-toggle" id="messageDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
-                            <i class="mdi mdi-email-outline"></i>
-                            <span class="count-symbol bg-warning"></span>
-                        </a>
-                        @await Component.InvokeAsync("WriterMessageNotification")
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-toggle="dropdown">
-                            <i class="mdi mdi-bell-outline"></i>
-                            <span class="count-symbol bg-danger"></span>
-                        </a>
-                        @await Component.InvokeAsync("WriterNotification")
-                    </li>
-                    <li class="nav-item nav-logout d-none d-lg-block">
-                        <a class="nav-link" href="#">
-                            <i class="mdi mdi-power"></i>
-                        </a>
-                    </li>
-                    <li class="nav-item nav-settings d-none d-lg-block">
-                        <a class="nav-link" href="#">
-                            <i class="mdi mdi-format-line-spacing"></i>
-                        </a>
-                    </li>
+                    <partial name="_Culture" class="dropdown-menu navbar-dropdown"></partial>
+                    @*<li class="nav-item dropdown">
+            <a class="nav-link count-indicator dropdown-toggle" id="messageDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
+                <i class="mdi mdi-email-outline"></i>
+                <span class="count-symbol bg-warning"></span>
+            </a>
+            @await Component.InvokeAsync("WriterMessageNotification")
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-toggle="dropdown">
+                <i class="mdi mdi-bell-outline"></i>
+                <span class="count-symbol bg-danger"></span>
+            </a>
+            @await Component.InvokeAsync("WriterNotification")
+        </li>
+        <li class="nav-item nav-logout d-none d-lg-block">
+            <a class="nav-link" href="#">
+                <i class="mdi mdi-power"></i>
+            </a>
+        </li>
+        <li class="nav-item nav-settings d-none d-lg-block">
+            <a class="nav-link" href="#">
+                <i class="mdi mdi-format-line-spacing"></i>
+            </a>
+        </li>*@
                 </ul>
                 <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
                     <span class="mdi mdi-menu"></span>

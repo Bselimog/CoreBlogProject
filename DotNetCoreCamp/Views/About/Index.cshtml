@@ -1,4 +1,5 @@
-﻿@using EntityLayer.Concrete
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@using EntityLayer.Concrete
 @model List<About>
 
 @{
@@ -11,7 +12,7 @@
 <body>
     <section class="main-content-w3layouts-agileits">
         <div class="container">
-            <h3 class="tittle">Hakkımızda</h3>
+            <h3 class="tittle">@localizer["Hakkımızda"]</h3>
             <div class="row inner-sec">
                 <!--left-->
                 <div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
@@ -23,16 +24,16 @@
                             </a>
                         </div>
                         <h3>
-                            Biz Kimiz & Misyonumuz & Vizyonumuz
+                           @localizer["Biz Kimiz & Misyonumuz & Vizyonumuz"]
                         </h3>
                         @foreach (var item in Model)
                         {
                             <p>
-                               @item.AboutDetails1
+                                @item.AboutDetails1
                             </p>
                         }
-                        <a href="single.html" class="btn btn-primary read-m">Devamını Oku</a>
-                    </div>
+                    <a href="single.html" class="btn btn-primary read-m"> @localizer["Devamını Oku"]</a>
+</div>
                 </div>
                 <!--//left-->
                 <!--right-->
@@ -44,9 +45,11 @@
                         @await Html.PartialAsync("~/Views/About/SocialMediaAbout.cshtml")
 
                         <div class="tech-btm">
-                            <h4>Son Postlar</h4>
-                            @await Component.InvokeAsync("WriterLastBlog")
-                        </div>
+                            <h4>
+                                @localizer["Son Postlar"]</h4>
+
+                                 @await Component.InvokeAsync("WriterLastBlog")
+</div>
                     </div>
                 </aside>
             </div>

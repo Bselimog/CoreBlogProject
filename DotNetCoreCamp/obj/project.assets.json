@@ -9174,11 +9174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\DotNetCoreCamp.csproj",
+      "projectUniqueName": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\DotNetCoreCamp.csproj",
       "projectName": "DotNetCoreCamp",
-      "projectPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\DotNetCoreCamp.csproj",
+      "projectPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\DotNetCoreCamp.csproj",
       "packagesPath": "C:\\Users\\Melike Selimoğlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\obj\\",
+      "outputPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Melike Selimoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9195,14 +9195,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

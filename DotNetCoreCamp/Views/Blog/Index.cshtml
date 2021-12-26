@@ -1,4 +1,6 @@
-﻿@using EntityLayer.Concrete
+﻿
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@using EntityLayer.Concrete
 @model List<Blog>
 @{
     ViewData["Title"] = "Index";
@@ -7,7 +9,7 @@
 
 <section class="main-content-w3layouts-agileits">
     <div class="container">
-        <h3 class="tittle">Bloglar</h3>
+        <h3 class="tittle">@localizer["Bloglar"]</h3>
         <div class="inner-sec">
             <!--left-->
             <div class="left-blog-info-w3layouts-agileits text-left">
@@ -39,10 +41,10 @@
                                 <h5 class="card-title">
                                     <a href="/Blog/BlogReadAll/@item.BlogID">@item.BlogTitle</a>
                                 </h5>
-                                <p class="card-text mb-3">
-                                    @item.BlogContent.Substring(0, item.BlogContent.Substring(0, 130).LastIndexOf(" "))...
-                                </p>
-                                <a href="/Blog/BlogReadAll/@item.BlogID" class="btn btn-primary read-m">Devamını Oku...</a>
+                                @*<p class="card-text mb-3">
+                                        @item.BlogContent.Substring(0, item.BlogContent.Substring(0, 130).LastIndexOf(" "))...
+                                    </p>*@
+                                <a href="/Blog/BlogReadAll/@item.BlogID" class="btn btn-primary read-m">@localizer["Devamını Oku..."]</a>
                             </div>
                         </div>
                         <br />

@@ -333,6 +333,14 @@
         "runtime": {
           "DotNetCoreCamp.dll": {}
         },
+        "resources": {
+          "en-gb/DotNetCoreCamp.resources.dll": {
+            "locale": "en-gb"
+          },
+          "tr/DotNetCoreCamp.resources.dll": {
+            "locale": "tr"
+          }
+        },
         "compile": {
           "DotNetCoreCamp.dll": {}
         }

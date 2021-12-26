@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zyWqUtZ6E4p0stAK6BtB6YLvP7am02KsRNYtg0G3CuaxtC7lSy2doJEuL6ZSy734OXj8Xz1c/qFa0kXBAfjDYQ==",
+  "dgSpecHash": "eBpcXBbItniAq8t7SRyhgU7XSku0oONoNKlMMLZi605TR5/qlgzIMIqvKOIpCSoMm6JOfteGAWBrIlZuODLOig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Melike Selimoğlu\\Documents\\GitHub\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\DotNetCoreCamp.csproj",
+  "projectFilePath": "C:\\Users\\Melike Selimoğlu\\Desktop\\tıbbi istatistik\\ASP.NET-CORE5_SocialDiscount\\DotNetCoreCamp\\DotNetCoreCamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melike Selimoğlu\\.nuget\\packages\\aspnetcorehero.results\\1.1.1\\aspnetcorehero.results.1.1.1.nupkg.sha512",
     "C:\\Users\\Melike Selimoğlu\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",

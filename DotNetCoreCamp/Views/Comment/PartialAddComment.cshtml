@@ -1,14 +1,17 @@
-﻿<div class="comment-top">
-    <h4>Yorumunuzu Bırakın!</h4>
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+<div class="comment-top">
+    <h4>@localizer["Yorumunuzu Bırakın!"]</h4>
     <div class="comment-bottom">
         <form action="/Comment/PartialAddComment/" method="post">
-            <input class="form-control" type="text" name="CommentUserName" placeholder="Adınız ve Soyadınız..." required="">
-            @*<input class="form-control" type="email" name="CommentTitle" placeholder="Mail Adresiniz..." required="">*@
 
-            <input class="form-control" type="text" name="CommentTitle" placeholder="Konu..." required="">
+            <input class="form-control" type="text" name="CommentUserName" placeholder=@localizer["Adınız ve Soyadınız..." ] required="">
 
-            <textarea class="form-control" name="CommentContent" placeholder="Yorumunuz..." required=""></textarea>
-            <button type="submit" class="btn btn-primary submit">Yorum Yap</button>
+
+            <input class="form-control" type="text" name="CommentTitle" placeholder=@localizer["Konu..."] required="">
+
+            <textarea class="form-control" name="CommentContent" placeholder=@localizer["Yorumunuz..."] required=""></textarea>
+            <button type="submit" class="btn btn-primary submit">@localizer["Yorum Yap"]</button>
         </form>
     </div>
 </div>
+

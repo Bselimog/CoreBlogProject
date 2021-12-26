@@ -34,3 +34,15 @@ C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\CoreLayer\obj\Debug\
 C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
 C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
 C:\Users\Melike Selimoğlu\Documents\GitHub\CoreBlogProject\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Melike Selimoğlu\Desktop\tıbbi istatistik\ASP.NET-CORE5_SocialDiscount\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb

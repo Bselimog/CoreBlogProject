@@ -1,8 +1,9 @@
-﻿@using EntityLayer.Concrete
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@using EntityLayer.Concrete
 @model List<Blog>
 
 <div class="tech-btm">
-    <h3>Son Gönderiler</h3>
+    <h3>@localizer["Son Gönderiler"]</h3>
     @foreach (var item in Model)
     {
         <div class="blog-grids row mb-3">

@@ -1,11 +1,11 @@
-﻿
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
 @{
     ViewData["Title"] = "BlogTitleListExcel";
     Layout = "~/Views/Shared/AdminLayout.cshtml";
 }
 
-<h1>BlogTitleListExcel</h1>
+<h1>@localizer["BlogBaşlıkListesiExcel"]</h1>
 <br />
-<a href="/Admin/Blog/ExportDynamicExcelBlogList/" class="btn btn-primary">Excel Listesini İndir</a>
+<a href="/Admin/Blog/ExportDynamicExcelBlogList/" class="btn btn-primary">@localizer["Excel Listesini İndir"]</a>
 
 

@@ -1,18 +1,19 @@
-﻿
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
 @{
     ViewData["Title"] = "BlogListExcel";
     Layout = "~/Views/Shared/AdminLayout.cshtml";
 }
 
-<h1>BlogListExcel</h1>
+<h1>@localizer["BlogListesiExcel"]</h1>
 <br />
 
-<a href="/Admin/Blog/ExportStaticExcelBlogList/" class="btn btn-primary">Excel Listesini İndir</a>
+<a href="/Admin/Blog/ExportStaticExcelBlogList/" class="btn btn-primary">@localizer["Excel Listesini İndir"]</a>
+
 
 @*<button class="btn btn-primary" onclick="DownloadExcelBlogList">Excel Listesini İndir</button>
 
-<script>
-    function DownloadExcelBlogList() {
-        window.open("/Admin/Blog/ExportStaticExcelBlogList/");
-    }
-</script>*@
+    <script>
+        function DownloadExcelBlogList() {
+            window.open("/Admin/Blog/ExportStaticExcelBlogList/");
+        }
+    </script>*@

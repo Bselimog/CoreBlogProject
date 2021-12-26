@@ -1,4 +1,5 @@
-﻿@using EntityLayer.Concrete
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@using EntityLayer.Concrete
 @model List<Blog>
 @{
     ViewData["Title"] = "BlogListByWriter";
@@ -14,17 +15,17 @@
     string buttonStatusColor = "";
 }
 
-<h1>Yazara Ait Bloglar</h1>
+<h1>@localizer["Yazara Ait Bloglar"]</h1>
 <br />
 <table class="table table-hover">
     <tr>
         <th>#</th>
-        <th>Blog Başlığı</th>
-        <th>Oluşturulma Tarihi</th>
-        <th>Kategori</th>
-        <th>Durum</th>
-        <th>Sil</th>
-        <th>Düzenle</th>
+        <th>@localizer["Blog Başlığı"]</th>
+        <th>@localizer["Oluşturulma Tarihi"]</th>
+        <th>@localizer["Kategori"]</th>
+        <th>@localizer["Durum"]</th>
+        <th>@localizer["Sil"]</th>
+        <th>@localizer["Düzenle"]</th>
     </tr>
     @foreach (var item in Model)
     {
@@ -67,4 +68,4 @@
     }
 </table>
 <br />
-<a href="/Blog/BlogAdd/" class="btn btn-primary">Yeni Blog Oluştur</a>
+<a href="/Blog/BlogAdd/" class="btn btn-primary">@localizer["Yeni Blog Oluştur"]</a>
